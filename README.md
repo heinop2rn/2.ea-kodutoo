@@ -9,3 +9,9 @@ Mängu eesmärk on võimalikult kiiresti ekraanile tekkivaid sõnu ära trükkid
 4. 10 Parima soorituse skoor
 5. Mängu juhend
 6. Kui valesti trükkida, hakkab ebameeldivalt karjuma
+
+![alt text](https://raw.githubusercontent.com/heinop2rn/2.ea-kodutoo/master/Typer3.jpg)
+
+![alt text](https://raw.githubusercontent.com/heinop2rn/2.ea-kodutoo/master/Typer1.jpg)
+
+![alt text](https://raw.githubusercontent.com/heinop2rn/2.ea-kodutoo/master/Typer2.jpg)
